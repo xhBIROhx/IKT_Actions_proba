@@ -1,1 +1,1 @@
-print("hello-world")
+print("hehehe szar a kód
