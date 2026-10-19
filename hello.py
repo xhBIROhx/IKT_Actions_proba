@@ -1,1 +1,1 @@
-print("hehehe szar a kód
+print("hehehe szar a kódaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
